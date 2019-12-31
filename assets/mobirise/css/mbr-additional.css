@@ -710,106 +710,197 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rKPL1v1bMg {
+.cid-rMeJDQZUzK {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rKPL1v1bMg .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
+.cid-rMeJDQZUzK .mbr-slider .carousel-control {
+  background: #1b1b1b;
 }
-.cid-rKPL1v1bMg .number-wrap {
-  color: #4f4943;
-  border-color: rgba(255, 255, 255, 0.15);
-  position: relative;
-  display: inline-block;
-  text-align: center;
-  padding: 5px 10px 13px 10px;
-  margin: 0;
-  min-width: 118px;
-  border-radius: 2px;
-  max-width: 100%;
+.cid-rMeJDQZUzK .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
 }
-.cid-rKPL1v1bMg .number {
-  font-style: normal;
-  font-weight: 700;
-  font-size: 55px;
-  text-transform: none;
-  letter-spacing: -2px;
-  word-spacing: 0;
-  line-height: 1.3;
-  color: #232323;
+.cid-rMeJDQZUzK .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
 }
-.cid-rKPL1v1bMg .period {
+.cid-rMeJDQZUzK .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rMeJDQZUzK .row > .row {
   display: block;
-  padding-top: 2px;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
-.cid-rKPL1v1bMg .dot {
+.cid-rMeJDQZUzK .mbr-gallery-item {
+  width: 100%;
+}
+.cid-rMeJDQZUzK .mbr-gallery-item > div::before {
+  content: '';
   position: absolute;
-  top: -10px;
-  right: -1em;
-  width: 1em;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rMeJDQZUzK .mbr-gallery-item > div {
+  position: relative;
+}
+.cid-rMeJDQZUzK .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-rMeJDQZUzK .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-rMeJDQZUzK .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
   display: block;
-  height: 83%;
-  overflow: hidden;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 55px;
-  line-height: 89.65px;
-  text-transform: none;
-  letter-spacing: 0;
-  word-spacing: 0;
-  color: #232323;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
 }
-.cid-rKPL1v1bMg .countdown-cont {
-  max-width: 700px;
-  margin: 0 auto;
+.cid-rMeJDQZUzK .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
 }
-@media (max-width: 768px) {
-  .cid-rKPL1v1bMg .dot {
-    display: none;
-  }
-}
-@media (max-width: 543px) {
-  .cid-rKPL1v1bMg .number-wrap {
-    margin-bottom: 15px;
-  }
-}
-@media (max-width: 550px) {
-  .cid-rKPL1v1bMg .col-xs-3 {
-    padding-left: 0;
-    padding-right: 0;
-    max-width: 25%;
-    flex: 0 0 25%;
-  }
-  .cid-rKPL1v1bMg .number-wrap {
-    min-width: auto;
-  }
-}
-@media (max-width: 440px) {
-  .cid-rKPL1v1bMg .number,
-  .cid-rKPL1v1bMg .dot {
-    font-size: 40px;
-  }
-}
-@media (max-width: 380px) {
-  .cid-rKPL1v1bMg .period {
-    font-size: 0.8rem;
-  }
-}
-.cid-rKDqs9khLe {
-  background-image: url("../../../assets/images/christmas-wishes-1070x642.jpg");
-}
-.cid-rKDqs9khLe H1 {
-  color: #1f7921;
-}
-.cid-rKEAnR7Urq {
+.cid-rMeLSTZ02P {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
-.cid-rKEAnR7Urq P {
-  color: #767676;
+.cid-rMeLSTZ02P .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-rMeLSTZ02P .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-rMeLSTZ02P .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rMeLSTZ02P .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rMeLSTZ02P .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rMeLSTZ02P .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-rMeLSTZ02P .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-rMeLSTZ02P .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-rMeLSTZ02P .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rMeNBTqfXT {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #f9f295;
+  overflow: hidden;
+}
+.cid-rMeNBTqfXT .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-rMeNBTqfXT .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-rMeNBTqfXT .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rMeNBTqfXT .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rMeNBTqfXT .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-rMeNBTqfXT .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-rMeNBTqfXT .mbr-gallery-item > div:hover:before {
+  opacity: 1 !important;
+}
+.cid-rMeNBTqfXT .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-rMeNBTqfXT .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 1;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
 }
