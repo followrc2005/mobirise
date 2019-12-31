@@ -553,13 +553,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/happy-4488262-960.webp",
-                "thumb": "@PROJECT_PATH@/assets/images/happy-4488262-960.webp",
+                "image": "@PROJECT_PATH@/assets/images/happy-4488262.webp",
+                "thumb": "@PROJECT_PATH@/assets/images/happy-4488262.webp",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Πληκτρολογήστε τη λεζάντα εδώ",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Δημιουργικό",
@@ -598,7 +598,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Πληκτρολογήστε τη λεζάντα εδώ",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Φανταστικό",
@@ -618,8 +618,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/happy-4488262-960.webp",
-                "thumb": "@PROJECT_PATH@/assets/images/happy-4488262-960.webp",
+                "image": "@PROJECT_PATH@/assets/images/happy-4488263.webp",
+                "thumb": "@PROJECT_PATH@/assets/images/happy-4488263.webp",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
