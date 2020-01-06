@@ -710,6 +710,18 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-rMKykZYnsS {
+  background: #ffffff;
+}
+.cid-rMKykZYnsS .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rMKykZYnsS .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rMmuEXfzW6 {
   background-color: #232323;
 }
