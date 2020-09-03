@@ -722,17 +722,3 @@ section.lazy-placeholder:after {
 .cid-s9zk0Ldix8 .mbr-section-btn {
   text-align: left;
 }
-.cid-s9hmdiSUKb {
-  background: #149dcc;
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: linear-gradient(0deg, #149dcc, #ffffff);
-}
-.cid-s9hmdiSUKb .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-s9hmdiSUKb .video-block {
-    width: 100% !important;
-  }
-}
