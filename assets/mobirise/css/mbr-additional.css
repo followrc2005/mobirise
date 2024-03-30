@@ -21,11 +21,11 @@ body {
 }
 .display-1 {
   font-family: 'Inter Tight', sans-serif;
-  font-size: 8rem;
+  font-size: 6.8rem;
   line-height: 1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 10rem;
+  font-size: 8.5rem;
 }
 .display-2 {
   font-family: 'Inter Tight', sans-serif;
@@ -66,14 +66,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 6.4rem;
+    font-size: 5.44rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 5.6rem;
-    font-size: calc( 3.45rem + (8 - 3.45) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (3.45rem + (8 - 3.45) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4.76rem;
+    font-size: calc( 3.03rem + (6.8 - 3.03) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (3.03rem + (6.8 - 3.03) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 3.2rem;
@@ -98,9 +98,9 @@ body {
 }
 @media (min-width: 992px) and (max-width: 1400px) {
   .display-1 {
-    font-size: 5.6rem;
-    font-size: calc( 3.45rem + (8 - 3.45) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.1 * (3.45rem + (8 - 3.45) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 4.76rem;
+    font-size: calc( 3.03rem + (6.8 - 3.03) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.1 * (3.03rem + (6.8 - 3.03) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-2 {
     font-size: 3.2rem;
@@ -1384,5 +1384,5 @@ a {
 .cid-u6UDlqDhFq .mbr-section-title,
 .cid-u6UDlqDhFq .card-box {
   color: #000000;
-  text-align: center;
+  text-align: left;
 }
