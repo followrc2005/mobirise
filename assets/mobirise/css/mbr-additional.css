@@ -21,11 +21,11 @@ body {
 }
 .display-1 {
   font-family: 'Inter Tight', sans-serif;
-  font-size: 3.2rem;
+  font-size: 0.4rem;
   line-height: 1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 4rem;
+  font-size: 0.5rem;
 }
 .display-2 {
   font-family: 'Inter Tight', sans-serif;
@@ -66,14 +66,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 2.56rem;
+    font-size: 0.32rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.24rem;
-    font-size: calc( 1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.28rem;
+    font-size: calc( 0.79rem + (0.4 - 0.79) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (0.79rem + (0.4 - 0.79) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 3.2rem;
@@ -98,9 +98,9 @@ body {
 }
 @media (min-width: 992px) and (max-width: 1400px) {
   .display-1 {
-    font-size: 2.24rem;
-    font-size: calc( 1.77rem + (3.2 - 1.77) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.1 * (1.77rem + (3.2 - 1.77) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 0.28rem;
+    font-size: calc( 0.79rem + (0.4 - 0.79) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.1 * (0.79rem + (0.4 - 0.79) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-2 {
     font-size: 3.2rem;
