@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone",
-    "currentPage": "home.html",
+    "currentPage": "html.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -958,7 +958,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "4"
+        "order": "3"
       },
       "components": [
         {
@@ -1766,6 +1766,13 @@
         "title": "Home",
         "order": "2",
         "meta_descr": ""
+      },
+      "components": []
+    },
+    "html.html": {
+      "settings": {
+        "title": "",
+        "order": "1"
       },
       "components": []
     }
