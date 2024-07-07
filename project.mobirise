@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -50,7 +50,7 @@
         "url": "https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 71,
+    "uniqCompNum": 73,
     "versionPublish": "5.9.13",
     "imageResize": true,
     "chatbutton": {},
@@ -958,7 +958,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "3"
+        "order": "4"
       },
       "components": [
         {
@@ -1764,15 +1764,22 @@
     "page2.html": {
       "settings": {
         "title": "Page 2",
-        "order": "2"
+        "order": "3"
       },
       "components": []
     },
     "home.html": {
       "settings": {
         "title": "Home",
-        "order": "1",
+        "order": "2",
         "meta_descr": ""
+      },
+      "components": []
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Page 4",
+        "order": "1"
       },
       "components": []
     }
