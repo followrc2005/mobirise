@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone",
-    "currentPage": "page4.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -1761,25 +1761,11 @@
         }
       ]
     },
-    "page2.html": {
-      "settings": {
-        "title": "Page 2",
-        "order": "3"
-      },
-      "components": []
-    },
     "home.html": {
       "settings": {
         "title": "Home",
         "order": "2",
         "meta_descr": ""
-      },
-      "components": []
-    },
-    "page4.html": {
-      "settings": {
-        "title": "Page 4",
-        "order": "1"
       },
       "components": []
     }
