@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "home.html",
+    "currentPage": "html.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -1766,9 +1766,9 @@
       },
       "components": []
     },
-    "home.html": {
+    "html.html": {
       "settings": {
-        "title": "Home",
+        "title": "",
         "order": "1",
         "meta_descr": ""
       },
