@@ -1322,14 +1322,40 @@ a {
   border-radius: 0 !important;
 }
 .cid-uuv3wrz1Zs {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 45px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/racing-flag-1981x424.png");
   overflow: hidden;
 }
 .cid-uuv3wrz1Zs .media-container-row .mbr-text {
   color: #65be21;
   text-align: center;
+}
+.cid-uuv6HZ7JOr {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-uuv6HZ7JOr .item:focus,
+.cid-uuv6HZ7JOr span:focus {
+  outline: none;
+}
+.cid-uuv6HZ7JOr .container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+  overflow: hidden;
+}
+.cid-uuv6HZ7JOr .content-head {
+  max-width: 800px;
+}
+.cid-uuv6HZ7JOr .item {
+  color: #232323;
+  min-height: 90px;
+}
+@media (max-width: 768px) {
+  .cid-uuv6HZ7JOr .item {
+    min-height: 45px;
+  }
 }
 .cid-ucRDGV3ayl {
   z-index: 1000;
@@ -1903,8 +1929,8 @@ a {
   border-radius: 0 !important;
 }
 .cid-ucRDGWCnZO {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 45px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/racing-flag-1981x424.png");
   overflow: hidden;
 }
@@ -2771,8 +2797,8 @@ a {
   border-radius: 0 !important;
 }
 .cid-uutQ0EwV2L {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 45px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/racing-flag-1981x424.png");
   overflow: hidden;
 }
