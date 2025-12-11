@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -55,7 +55,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/mbr-137x69.png-128x64.png",
-    "mbrsiteDomain": "duppohcgev",
+    "mbrsiteDomain": "jjnwfiiafw",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
