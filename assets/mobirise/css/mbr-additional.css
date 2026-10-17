@@ -10,7 +10,8 @@ img,
 .slide-content,
 .plan,
 .card,
-.item-wrapper {
+.item-wrapper,
+.item-wrapper .mbr-overlay {
   border-radius: 0 !important;
 }
 .video-wrapper {
@@ -750,6 +751,11 @@ a {
     padding-left: 16px;
     padding-right: 16px;
   }
+}
+*:focus-visible {
+  outline: red solid 2px !important;
+  outline-offset: 2px !important;
+  transition: outline 0.2s ease-in-out;
 }
 .cid-v563q6L4VG {
   z-index: 1000;
